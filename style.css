@@ -15,6 +15,7 @@ body
 	color: #ffffff;
 	background-color: #56565b;
 	padding: 22px;
+	box-shadow: 10px 5px 30px 2px #888888;
 }
 .w3-top,.w3-bottom {
 	position:fixed;
@@ -214,7 +215,7 @@ input[type=text], select {
 	text-align: justify;
 }
 #servicespages {
-	padding-top: 120px;
+	padding-top: 115px;
 }
 #servicespages .sideBar1
 {
